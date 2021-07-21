@@ -1,3 +1,3 @@
 # spaceTest
 GitHub learn
-Actully i'm learning python, i hope learn it fast
+Actually i'm learning python, i hope learn it fast
